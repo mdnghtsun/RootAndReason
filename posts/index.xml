@@ -11,12 +11,26 @@
     </image>
     <generator>Hugo -- 0.148.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Jul 2025 20:55:00 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jul 2025 18:51:55 -0700</lastBuildDate>
     <atom:link href="https://mdnghtsun.github.io/RootAndReason/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Router That I Remember Fondly (And Why I’m Building My Own)</title>
+      <link>https://mdnghtsun.github.io/RootAndReason/posts/building-a-router/</link>
+      <pubDate>Sun, 06 Jul 2025 18:51:55 -0700</pubDate>
+      <guid>https://mdnghtsun.github.io/RootAndReason/posts/building-a-router/</guid>
+      <description>From the legendary WRT54G to locked-down firmware nightmares, here&amp;#39;s why I&amp;#39;m ditching consumer routers and building my own pfSense box.</description>
+    </item>
+    <item>
+      <title>Why I Built My Own NAS (and Why You Might Want To)</title>
+      <link>https://mdnghtsun.github.io/RootAndReason/posts/building-a-nas-unit/</link>
+      <pubDate>Sun, 29 Jun 2025 18:51:55 -0700</pubDate>
+      <guid>https://mdnghtsun.github.io/RootAndReason/posts/building-a-nas-unit/</guid>
+      <description>Exploring why I chose to build my own NAS instead of buying prebuilt options from Synology or QNAP, and how Unraid changed my perspective.</description>
+    </item>
     <item>
       <title>Overriding Hugo Theme Layouts</title>
       <link>https://mdnghtsun.github.io/RootAndReason/posts/hugo-modifying-theme-layouts/</link>
-      <pubDate>Wed, 09 Jul 2025 20:55:00 -0700</pubDate>
+      <pubDate>Sun, 22 Jun 2025 20:55:00 -0700</pubDate>
       <guid>https://mdnghtsun.github.io/RootAndReason/posts/hugo-modifying-theme-layouts/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;re using a Hugo theme like &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;PaperMod&lt;/a&gt; and want to customize part of its layout, the correct way to do this is by overriding the theme’s templates locally — without modifying the theme directly.&lt;/p&gt;
 &lt;p&gt;This approach lets you:&lt;/p&gt;
@@ -28,21 +42,14 @@
 &lt;p&gt;For my purposes, I wanted to extended the behavior of the PaperMod theme I&amp;rsquo;m using to include a mention about amazon afiliate links in the page footers &amp;ndash; without overriding the default footer containing information on how the site was built (hugo + paper mod, etc).&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Why I Built My Own NAS (and Why You Might Want To)</title>
-      <link>https://mdnghtsun.github.io/RootAndReason/posts/building-a-nas-unit/</link>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://mdnghtsun.github.io/RootAndReason/posts/building-a-nas-unit/</guid>
-      <description>Exploring why I chose to build my own NAS instead of buying prebuilt options from Synology or QNAP, and how Unraid changed my perspective.</description>
-    </item>
-    <item>
       <title>Ali: The Elixir of Love</title>
       <link>https://mdnghtsun.github.io/RootAndReason/posts/ali-elixir-of-love/</link>
-      <pubDate>Tue, 08 Jul 2025 18:51:55 -0700</pubDate>
+      <pubDate>Sun, 15 Jun 2025 18:51:55 -0700</pubDate>
       <guid>https://mdnghtsun.github.io/RootAndReason/posts/ali-elixir-of-love/</guid>
       <description>&lt;img src=&#34;ali-calligraphy-lion.jpg&#34; alt=&#34;Ali calligraphy lion&#34; style=&#34;max-width: 300px; display: block; margin: 0 auto; border-radius: 8px;&#34;&gt;
 &lt;blockquote&gt;
 &lt;p&gt;“People are of two kinds: either your brothers in faith or your equals in humanity.”&lt;br&gt;
-— Ali ibn Talib, 4th Caliph&lt;/p&gt;&lt;/blockquote&gt;
+— Imam Ali&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;I’ve been reading &lt;em&gt;Ali: Elixir of Love&lt;/em&gt;, and this line struck me with its timeless moral clarity. It captures a universality that bridges faith and human dignity — something I think the modern world desperately needs to rediscover (more reflections coming soon.)&lt;/p&gt;</description>
     </item>
   </channel>

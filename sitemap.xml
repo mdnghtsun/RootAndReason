@@ -2,65 +2,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mdnghtsun.github.io/RootAndReason/drafts/</loc>
-    <lastmod>2025-07-12T18:51:55-07:00</lastmod>
-  </url><url>
-    <loc>https://mdnghtsun.github.io/RootAndReason/</loc>
-    <lastmod>2025-07-12T18:51:55-07:00</lastmod>
-  </url><url>
-    <loc>https://mdnghtsun.github.io/RootAndReason/tags/coding/</loc>
-    <lastmod>2025-07-09T20:55:00-07:00</lastmod>
-  </url><url>
-    <loc>https://mdnghtsun.github.io/RootAndReason/tags/hugo/</loc>
-    <lastmod>2025-07-09T20:55:00-07:00</lastmod>
-  </url><url>
-    <loc>https://mdnghtsun.github.io/RootAndReason/posts/hugo-modifying-theme-layouts/</loc>
-    <lastmod>2025-07-09T20:55:00-07:00</lastmod>
-  </url><url>
-    <loc>https://mdnghtsun.github.io/RootAndReason/posts/</loc>
-    <lastmod>2025-07-09T20:55:00-07:00</lastmod>
-  </url><url>
-    <loc>https://mdnghtsun.github.io/RootAndReason/tags/</loc>
-    <lastmod>2025-07-09T20:55:00-07:00</lastmod>
-  </url><url>
-    <loc>https://mdnghtsun.github.io/RootAndReason/tags/webdev/</loc>
-    <lastmod>2025-07-09T20:55:00-07:00</lastmod>
-  </url><url>
-    <loc>https://mdnghtsun.github.io/RootAndReason/tags/diy/</loc>
-    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://mdnghtsun.github.io/RootAndReason/tags/homelab/</loc>
-    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-06T18:51:55-07:00</lastmod>
   </url><url>
-    <loc>https://mdnghtsun.github.io/RootAndReason/tags/nas/</loc>
-    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
+    <loc>https://mdnghtsun.github.io/RootAndReason/tags/linksys/</loc>
+    <lastmod>2025-07-06T18:51:55-07:00</lastmod>
+  </url><url>
+    <loc>https://mdnghtsun.github.io/RootAndReason/tags/networking/</loc>
+    <lastmod>2025-07-06T18:51:55-07:00</lastmod>
   </url><url>
     <loc>https://mdnghtsun.github.io/RootAndReason/tags/opensource/</loc>
-    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-06T18:51:55-07:00</lastmod>
+  </url><url>
+    <loc>https://mdnghtsun.github.io/RootAndReason/tags/pfsense/</loc>
+    <lastmod>2025-07-06T18:51:55-07:00</lastmod>
+  </url><url>
+    <loc>https://mdnghtsun.github.io/RootAndReason/posts/</loc>
+    <lastmod>2025-07-06T18:51:55-07:00</lastmod>
+  </url><url>
+    <loc>https://mdnghtsun.github.io/RootAndReason/</loc>
+    <lastmod>2025-07-06T18:51:55-07:00</lastmod>
+  </url><url>
+    <loc>https://mdnghtsun.github.io/RootAndReason/tags/</loc>
+    <lastmod>2025-07-06T18:51:55-07:00</lastmod>
+  </url><url>
+    <loc>https://mdnghtsun.github.io/RootAndReason/posts/building-a-router/</loc>
+    <lastmod>2025-07-06T18:51:55-07:00</lastmod>
+  </url><url>
+    <loc>https://mdnghtsun.github.io/RootAndReason/tags/diy/</loc>
+    <lastmod>2025-06-29T18:51:55-07:00</lastmod>
+  </url><url>
+    <loc>https://mdnghtsun.github.io/RootAndReason/tags/nas/</loc>
+    <lastmod>2025-06-29T18:51:55-07:00</lastmod>
   </url><url>
     <loc>https://mdnghtsun.github.io/RootAndReason/tags/truenas/</loc>
-    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-29T18:51:55-07:00</lastmod>
   </url><url>
     <loc>https://mdnghtsun.github.io/RootAndReason/tags/unraid/</loc>
-    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mdnghtsun.github.io/RootAndReason/drafts/index-copy/</loc>
-    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-29T18:51:55-07:00</lastmod>
   </url><url>
     <loc>https://mdnghtsun.github.io/RootAndReason/posts/building-a-nas-unit/</loc>
-    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-29T18:51:55-07:00</lastmod>
+  </url><url>
+    <loc>https://mdnghtsun.github.io/RootAndReason/tags/coding/</loc>
+    <lastmod>2025-06-22T20:55:00-07:00</lastmod>
+  </url><url>
+    <loc>https://mdnghtsun.github.io/RootAndReason/tags/hugo/</loc>
+    <lastmod>2025-06-22T20:55:00-07:00</lastmod>
+  </url><url>
+    <loc>https://mdnghtsun.github.io/RootAndReason/posts/hugo-modifying-theme-layouts/</loc>
+    <lastmod>2025-06-22T20:55:00-07:00</lastmod>
+  </url><url>
+    <loc>https://mdnghtsun.github.io/RootAndReason/tags/webdev/</loc>
+    <lastmod>2025-06-22T20:55:00-07:00</lastmod>
   </url><url>
     <loc>https://mdnghtsun.github.io/RootAndReason/posts/ali-elixir-of-love/</loc>
-    <lastmod>2025-07-08T18:51:55-07:00</lastmod>
+    <lastmod>2025-06-15T18:51:55-07:00</lastmod>
   </url><url>
     <loc>https://mdnghtsun.github.io/RootAndReason/tags/books/</loc>
-    <lastmod>2025-07-08T18:51:55-07:00</lastmod>
+    <lastmod>2025-06-15T18:51:55-07:00</lastmod>
   </url><url>
     <loc>https://mdnghtsun.github.io/RootAndReason/tags/history/</loc>
-    <lastmod>2025-07-08T18:51:55-07:00</lastmod>
+    <lastmod>2025-06-15T18:51:55-07:00</lastmod>
   </url><url>
     <loc>https://mdnghtsun.github.io/RootAndReason/tags/philosophy/</loc>
-    <lastmod>2025-07-08T18:51:55-07:00</lastmod>
+    <lastmod>2025-06-15T18:51:55-07:00</lastmod>
   </url><url>
     <loc>https://mdnghtsun.github.io/RootAndReason/categories/</loc>
   </url>

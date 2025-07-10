@@ -11,89 +11,110 @@
     </image>
     <generator>Hugo -- 0.148.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Jul 2025 20:55:00 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jul 2025 18:51:55 -0700</lastBuildDate>
     <atom:link href="https://mdnghtsun.github.io/RootAndReason/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Coding</title>
-      <link>https://mdnghtsun.github.io/RootAndReason/tags/coding/</link>
-      <pubDate>Wed, 09 Jul 2025 20:55:00 -0700</pubDate>
-      <guid>https://mdnghtsun.github.io/RootAndReason/tags/coding/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hugo</title>
-      <link>https://mdnghtsun.github.io/RootAndReason/tags/hugo/</link>
-      <pubDate>Wed, 09 Jul 2025 20:55:00 -0700</pubDate>
-      <guid>https://mdnghtsun.github.io/RootAndReason/tags/hugo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Webdev</title>
-      <link>https://mdnghtsun.github.io/RootAndReason/tags/webdev/</link>
-      <pubDate>Wed, 09 Jul 2025 20:55:00 -0700</pubDate>
-      <guid>https://mdnghtsun.github.io/RootAndReason/tags/webdev/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Diy</title>
-      <link>https://mdnghtsun.github.io/RootAndReason/tags/diy/</link>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://mdnghtsun.github.io/RootAndReason/tags/diy/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Homelab</title>
       <link>https://mdnghtsun.github.io/RootAndReason/tags/homelab/</link>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 06 Jul 2025 18:51:55 -0700</pubDate>
       <guid>https://mdnghtsun.github.io/RootAndReason/tags/homelab/</guid>
       <description></description>
     </item>
     <item>
-      <title>Nas</title>
-      <link>https://mdnghtsun.github.io/RootAndReason/tags/nas/</link>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://mdnghtsun.github.io/RootAndReason/tags/nas/</guid>
+      <title>Linksys</title>
+      <link>https://mdnghtsun.github.io/RootAndReason/tags/linksys/</link>
+      <pubDate>Sun, 06 Jul 2025 18:51:55 -0700</pubDate>
+      <guid>https://mdnghtsun.github.io/RootAndReason/tags/linksys/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Networking</title>
+      <link>https://mdnghtsun.github.io/RootAndReason/tags/networking/</link>
+      <pubDate>Sun, 06 Jul 2025 18:51:55 -0700</pubDate>
+      <guid>https://mdnghtsun.github.io/RootAndReason/tags/networking/</guid>
       <description></description>
     </item>
     <item>
       <title>Opensource</title>
       <link>https://mdnghtsun.github.io/RootAndReason/tags/opensource/</link>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 06 Jul 2025 18:51:55 -0700</pubDate>
       <guid>https://mdnghtsun.github.io/RootAndReason/tags/opensource/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pfsense</title>
+      <link>https://mdnghtsun.github.io/RootAndReason/tags/pfsense/</link>
+      <pubDate>Sun, 06 Jul 2025 18:51:55 -0700</pubDate>
+      <guid>https://mdnghtsun.github.io/RootAndReason/tags/pfsense/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Diy</title>
+      <link>https://mdnghtsun.github.io/RootAndReason/tags/diy/</link>
+      <pubDate>Sun, 29 Jun 2025 18:51:55 -0700</pubDate>
+      <guid>https://mdnghtsun.github.io/RootAndReason/tags/diy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nas</title>
+      <link>https://mdnghtsun.github.io/RootAndReason/tags/nas/</link>
+      <pubDate>Sun, 29 Jun 2025 18:51:55 -0700</pubDate>
+      <guid>https://mdnghtsun.github.io/RootAndReason/tags/nas/</guid>
       <description></description>
     </item>
     <item>
       <title>Truenas</title>
       <link>https://mdnghtsun.github.io/RootAndReason/tags/truenas/</link>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 29 Jun 2025 18:51:55 -0700</pubDate>
       <guid>https://mdnghtsun.github.io/RootAndReason/tags/truenas/</guid>
       <description></description>
     </item>
     <item>
       <title>Unraid</title>
       <link>https://mdnghtsun.github.io/RootAndReason/tags/unraid/</link>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 29 Jun 2025 18:51:55 -0700</pubDate>
       <guid>https://mdnghtsun.github.io/RootAndReason/tags/unraid/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coding</title>
+      <link>https://mdnghtsun.github.io/RootAndReason/tags/coding/</link>
+      <pubDate>Sun, 22 Jun 2025 20:55:00 -0700</pubDate>
+      <guid>https://mdnghtsun.github.io/RootAndReason/tags/coding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>https://mdnghtsun.github.io/RootAndReason/tags/hugo/</link>
+      <pubDate>Sun, 22 Jun 2025 20:55:00 -0700</pubDate>
+      <guid>https://mdnghtsun.github.io/RootAndReason/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Webdev</title>
+      <link>https://mdnghtsun.github.io/RootAndReason/tags/webdev/</link>
+      <pubDate>Sun, 22 Jun 2025 20:55:00 -0700</pubDate>
+      <guid>https://mdnghtsun.github.io/RootAndReason/tags/webdev/</guid>
       <description></description>
     </item>
     <item>
       <title>Books</title>
       <link>https://mdnghtsun.github.io/RootAndReason/tags/books/</link>
-      <pubDate>Tue, 08 Jul 2025 18:51:55 -0700</pubDate>
+      <pubDate>Sun, 15 Jun 2025 18:51:55 -0700</pubDate>
       <guid>https://mdnghtsun.github.io/RootAndReason/tags/books/</guid>
       <description></description>
     </item>
     <item>
       <title>History</title>
       <link>https://mdnghtsun.github.io/RootAndReason/tags/history/</link>
-      <pubDate>Tue, 08 Jul 2025 18:51:55 -0700</pubDate>
+      <pubDate>Sun, 15 Jun 2025 18:51:55 -0700</pubDate>
       <guid>https://mdnghtsun.github.io/RootAndReason/tags/history/</guid>
       <description></description>
     </item>
     <item>
       <title>Philosophy</title>
       <link>https://mdnghtsun.github.io/RootAndReason/tags/philosophy/</link>
-      <pubDate>Tue, 08 Jul 2025 18:51:55 -0700</pubDate>
+      <pubDate>Sun, 15 Jun 2025 18:51:55 -0700</pubDate>
       <guid>https://mdnghtsun.github.io/RootAndReason/tags/philosophy/</guid>
       <description></description>
     </item>

@@ -11,19 +11,19 @@
     </image>
     <generator>Hugo -- 0.148.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jul 2025 18:51:55 -0700</lastBuildDate>
     <atom:link href="https://mdnghtsun.github.io/RootAndReason/tags/homelab/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Why I Built My Own NAS (and Why You Might Want To)</title>
-      <link>https://mdnghtsun.github.io/RootAndReason/drafts/index-copy/</link>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://mdnghtsun.github.io/RootAndReason/drafts/index-copy/</guid>
-      <description>Exploring why I chose to build my own NAS instead of buying prebuilt options from Synology or QNAP, and how Unraid changed my perspective.</description>
+      <title>The Router That I Remember Fondly (And Why I’m Building My Own)</title>
+      <link>https://mdnghtsun.github.io/RootAndReason/posts/building-a-router/</link>
+      <pubDate>Sun, 06 Jul 2025 18:51:55 -0700</pubDate>
+      <guid>https://mdnghtsun.github.io/RootAndReason/posts/building-a-router/</guid>
+      <description>From the legendary WRT54G to locked-down firmware nightmares, here&amp;#39;s why I&amp;#39;m ditching consumer routers and building my own pfSense box.</description>
     </item>
     <item>
       <title>Why I Built My Own NAS (and Why You Might Want To)</title>
       <link>https://mdnghtsun.github.io/RootAndReason/posts/building-a-nas-unit/</link>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 29 Jun 2025 18:51:55 -0700</pubDate>
       <guid>https://mdnghtsun.github.io/RootAndReason/posts/building-a-nas-unit/</guid>
       <description>Exploring why I chose to build my own NAS instead of buying prebuilt options from Synology or QNAP, and how Unraid changed my perspective.</description>
     </item>
