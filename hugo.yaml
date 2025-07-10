@@ -1,7 +1,7 @@
 baseURL: "https://mdnghtsun.github.io/RootAndReason/"
 languageCode: en-us
 title: Root & Reason
-pagination.pagerSizee: 5
+pagination.pagerSize: 5
 theme: PaperMod
 
 staticDir:
@@ -18,6 +18,15 @@ minify:
   minifyOutput: true
 
 params:
+  # home-info mode
+  homeInfoParams:
+    Title: "Hello there 👋"
+    Content: >
+      <img src="/RootAndReason/images/kenobi.jpg" alt="Kenobi" style="max-width: 200px; border-radius: 50%;">
+      <br>
+      Welcome to my blog. Root & Reason is where I share thoughts on tech, tinkering, philosophy, and more.
+  profileMode:
+    enabled: false
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: ExampleSite
   description: "ExampleSite description"
@@ -74,22 +83,17 @@ params:
       - name: Tags
         url: tags
 
-  # home-info mode
-homeInfoParams:
-  Title: "Hi there 👋"
-  Content: >
-    <b>This is bold text</b><br>
-    <i>This is italic</i><br>
-    <img src="/images/kenobi-hello-there.jpeg" alt="Headshot" style="max-width: 200px;">
-
-
   socialIcons:
-    - name: x
-      url: "https://x.com/"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/sunnymundra/"
     - name: stackoverflow
-      url: "https://stackoverflow.com"
+      url: "https://stackoverflow.com/users/5928361/1up"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/mdnghtsun"
+    - name: instagram
+      url: "https://www.instagram.com/sikhrandir/"
+    - name: 500px
+      url: "https://500px.com/"
 
   analytics:
     google:
@@ -123,17 +127,13 @@ homeInfoParams:
 menu:
   main:
     - identifier: categories
-      name: categories
-      url: /categories/
+      name: topics
+      url: /topics/
       weight: 10
     - identifier: tags
       name: tags
       url: /tags/
       weight: 20
-    - identifier: 500px
-      name: 500px
-      url: https://500px.com/
-      weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
@@ -144,3 +144,6 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+  goldmark:
+    renderer:
+      unsafe: true
