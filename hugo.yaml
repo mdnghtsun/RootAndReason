@@ -1,0 +1,4 @@
+baseURL: baseURL: "https://mdnghtsun.github.io/RootAndReason/"
+languageCode: en-us
+title: Root & Reason
+theme: ["PaperMod"]
