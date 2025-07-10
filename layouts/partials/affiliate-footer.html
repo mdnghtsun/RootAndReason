@@ -1,0 +1,9 @@
+{{ if and (.IsPage) (eq .Type "posts") (.Params.affiliate) }}
+  <footer class="footer">
+    <div class="container">
+      <p style="font-size: 0.8em; color: #888; text-align: center; margin: 2rem 0 0;">
+        Disclosure: As an Amazon Associate, I earn from qualifying purchases.
+      </p>
+    </div>
+  </footer>
+{{ end }}

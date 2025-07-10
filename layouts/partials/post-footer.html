@@ -1,0 +1,9 @@
+{{ if and (.IsPage) (eq .Type "posts") (.Params.affiliate) }}
+  <footer class="footer">
+    <div class="container">
+      {{ with site.Params.footer.customText }}
+        {{ . | safeHTML }}
+      {{ end }}
+    </div>
+  </footer>
+{{ end }}

@@ -1,29 +1,40 @@
+#!/usr/bin/env python3
+import os
 import subprocess
 import sys
 
-def run(cmd, cwd=None):
-    print(f"→ {cmd}")
-    result = subprocess.run(cmd, cwd=cwd, shell=True)
-    if result.returncode != 0:
-        print("❌ Command failed. Aborting.")
-        sys.exit(1)
+def run(cmd, check=True):
+    print(f"→ {' '.join(cmd)}")
+    subprocess.run(cmd, check=check)
 
-def main():
-    if len(sys.argv) < 2:
-        print("Usage: python deploy.py 'Your commit message here'")
-        sys.exit(1)
+if len(sys.argv) != 2:
+    print("Usage: python3 deploy.py 'commit message'")
+    sys.exit(1)
 
-    commit_message = sys.argv[1]
+commit_msg = sys.argv[1]
 
-    # Step 1: Build site
-    run("hugo --cleanDestinationDir")
+# Step 1: Build the site
+run(["hugo", "--cleanDestinationDir"])
 
-    # Step 2: Commit and push public/
-    run("git add -A", cwd="public")
-    run(f"git commit -m \"{commit_message}\"", cwd="public")
-    run("git push -f origin gh-pages", cwd="public")
+# Step 2: Move into the public directory
+os.chdir("public")
 
-    print("\n✅ Site deployed to GitHub Pages!")
+# Step 3: Initialize git if not already a repo
+if not os.path.exists(".git"):
+    run(["git", "init"])
+    run(["git", "checkout", "-b", "gh-pages"])
+    run(["git", "remote", "add", "origin", "git@github.com:mdnghtsun/RootAndReason.git"])
+else:
+    # Step 4: Make sure we're on gh-pages branch
+    branch = subprocess.check_output(["git", "rev-parse", "--abbrev-ref", "HEAD"]).strip().decode()
+    if branch != "gh-pages":
+        branches = subprocess.check_output(["git", "branch"], text=True)
+        if "gh-pages" in branches:
+            run(["git", "checkout", "gh-pages"])
+        else:
+            run(["git", "checkout", "-b", "gh-pages"])
 
-if __name__ == "__main__":
-    main()
+# Step 5: Commit and push
+run(["git", "add", "-A"])
+run(["git", "commit", "-m", commit_msg])
+run(["git", "push", "-f", "origin", "gh-pages"])

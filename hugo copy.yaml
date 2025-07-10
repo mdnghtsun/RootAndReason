@@ -27,13 +27,7 @@ params:
       Welcome to my blog. Root & Reason is where I share thoughts on tech, tinkering, philosophy, and more.
   footer:
     enable: true
-    customText: |
-      <p style="font-size: 0.8em; color: #888; text-align: center; margin: 0;">
-        Disclosure: As an Amazon Associate, I earn from qualifying purchases.
-        <br>
-        Built with <a href="https://gohugo.io" target="_blank">Hugo</a> &amp; 
-        <a href="https://github.com/adityatelange/hugo-PaperMod" target="_blank">PaperMod</a>.
-      </p>
+    customText: '<p style="font-size: 0.8em; color: #888; text-align: center; margin: 0;">Disclosure: As an Amazon Associate, I earn from qualifying purchases.</p>'
   profileMode:
     enabled: false
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
