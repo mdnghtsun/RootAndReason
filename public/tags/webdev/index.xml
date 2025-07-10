@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Webdev on Root &amp; Reason</title>
+    <link>http://localhost:1313/RootAndReason/tags/webdev/</link>
+    <description>Recent content in Webdev on Root &amp; Reason</description>
+    <image>
+      <title>Root &amp; Reason</title>
+      <url>http://localhost:1313/RootAndReason/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/RootAndReason/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.148.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Jul 2025 20:55:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/RootAndReason/tags/webdev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overriding Hugo Theme Layouts</title>
+      <link>http://localhost:1313/RootAndReason/posts/hugo-modifying-theme-layouts/</link>
+      <pubDate>Wed, 09 Jul 2025 20:55:00 -0700</pubDate>
+      <guid>http://localhost:1313/RootAndReason/posts/hugo-modifying-theme-layouts/</guid>
+      <description>&lt;p&gt;If you&amp;rsquo;re using a Hugo theme like &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;PaperMod&lt;/a&gt; and want to customize part of its layout, the correct way to do this is by overriding the theme’s templates locally — without modifying the theme directly.&lt;/p&gt;
+&lt;p&gt;This approach lets you:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Add custom content (e.g., footers, notices) to specific post types&lt;/li&gt;
+&lt;li&gt;Preserve your changes even if the theme updates&lt;/li&gt;
+&lt;li&gt;Keep the theme code clean and version-controlled&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For my purposes, I wanted to extended the behavior of the PaperMod theme I&amp;rsquo;m using to include a mention about amazon afiliate links in the page footers &amp;ndash; without overriding the default footer containing information on how the site was built (hugo + paper mod, etc).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
