@@ -20,12 +20,5 @@
       <guid>http://localhost:1313/RootAndReason/posts/building-a-nas-unit/</guid>
       <description>Exploring why I chose to build my own NAS instead of buying prebuilt options from Synology or QNAP, and how Unraid changed my perspective.</description>
     </item>
-    <item>
-      <title>The Router That Changed Everything (And Why I’m Building My Own)</title>
-      <link>http://localhost:1313/RootAndReason/drafts/building-a-router/draft/</link>
-      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RootAndReason/drafts/building-a-router/draft/</guid>
-      <description>From the legendary WRT54G to locked-down firmware nightmares, here&amp;#39;s why I&amp;#39;m ditching consumer routers and building my own pfSense box.</description>
-    </item>
   </channel>
 </rss>

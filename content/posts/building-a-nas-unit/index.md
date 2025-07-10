@@ -1,6 +1,6 @@
 ---
 title: "Why I Built My Own NAS (and Why You Might Want To)"
-date: 2025-07-10
+date: '2025-07-08T18:51:55-07:00'
 draft: false
 tags: ["homelab", "nas", "truenas", "unraid", "diy", "opensource"]
 description: "Exploring why I chose to build my own NAS instead of buying prebuilt options from Synology or QNAP, and how Unraid changed my perspective."

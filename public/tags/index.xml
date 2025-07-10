@@ -97,26 +97,5 @@
       <guid>http://localhost:1313/RootAndReason/tags/philosophy/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Linksys</title>
-      <link>http://localhost:1313/RootAndReason/tags/linksys/</link>
-      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RootAndReason/tags/linksys/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Networking</title>
-      <link>http://localhost:1313/RootAndReason/tags/networking/</link>
-      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RootAndReason/tags/networking/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pfsense</title>
-      <link>http://localhost:1313/RootAndReason/tags/pfsense/</link>
-      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RootAndReason/tags/pfsense/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

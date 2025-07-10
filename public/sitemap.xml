@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/RootAndReason/drafts/building-a-router/</loc>
-    <lastmod>2025-07-12T18:51:55-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/RootAndReason/drafts/</loc>
     <lastmod>2025-07-12T18:51:55-07:00</lastmod>
   </url><url>
@@ -61,18 +58,6 @@
   </url><url>
     <loc>http://localhost:1313/RootAndReason/tags/philosophy/</loc>
     <lastmod>2025-07-08T18:51:55-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/RootAndReason/tags/linksys/</loc>
-    <lastmod>2025-07-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/RootAndReason/tags/networking/</loc>
-    <lastmod>2025-07-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/RootAndReason/tags/pfsense/</loc>
-    <lastmod>2025-07-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/RootAndReason/drafts/building-a-router/draft/</loc>
-    <lastmod>2025-07-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/RootAndReason/categories/</loc>
   </url>

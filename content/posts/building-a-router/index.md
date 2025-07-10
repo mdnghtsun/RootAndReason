@@ -1,12 +1,12 @@
 ---
-title: "The Router That Changed Everything (And Why I’m Building My Own)"
-date: 2025-07-09
-draft: true
+title: "The Router That I Remember Fondly (And Why I’m Building My Own)"
+date: '2025-07-09T18:51:55-07:00'
+draft: false
 tags: ["networking", "homelab", "opensource", "pfsense", "linksys"]
 description: "From the legendary WRT54G to locked-down firmware nightmares, here's why I'm ditching consumer routers and building my own pfSense box."
 ---
 
-I remember a time when I had no idea what a router even was. It was just this black box that *did the networking*. That’s all I needed to know.
+Growing up, I had no idea what a router even was. It was just this black box that *did the networking*. That’s all I knew. 
 
 Our first router was one of those all-in-one units bundled with our ISP—**SBCGlobal** (acquired by AT&T). It was a locked-down piece of junk.
 
