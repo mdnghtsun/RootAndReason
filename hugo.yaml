@@ -25,6 +25,9 @@ params:
       <img src="/RootAndReason/images/kenobi.jpg" alt="Kenobi" style="max-width: 200px; border-radius: 50%;">
       <br>
       Welcome to my blog. Root & Reason is where I share thoughts on tech, tinkering, philosophy, and more.
+  footer:
+    enable: true
+    customText: '<p style="font-size: 0.8em; color: #888; text-align: center; margin: 0;">Disclosure: As an Amazon Associate, I earn from qualifying purchases.</p>'
   profileMode:
     enabled: false
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -37,7 +40,7 @@ params:
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
-
+  showFooter: true
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
@@ -64,7 +67,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: "Root & Reason"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
