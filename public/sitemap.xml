@@ -2,62 +2,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/RootAndReason/drafts/</loc>
-    <lastmod>2025-07-12T18:51:55-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/RootAndReason/</loc>
-    <lastmod>2025-07-12T18:51:55-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/RootAndReason/tags/coding/</loc>
-    <lastmod>2025-07-09T20:55:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/RootAndReason/tags/hugo/</loc>
-    <lastmod>2025-07-09T20:55:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/RootAndReason/posts/hugo-modifying-theme-layouts/</loc>
-    <lastmod>2025-07-09T20:55:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/RootAndReason/posts/</loc>
-    <lastmod>2025-07-09T20:55:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/RootAndReason/tags/</loc>
-    <lastmod>2025-07-09T20:55:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/RootAndReason/tags/webdev/</loc>
-    <lastmod>2025-07-09T20:55:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/RootAndReason/tags/diy/</loc>
-    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/RootAndReason/tags/homelab/</loc>
-    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-06T18:51:55-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/RootAndReason/tags/nas/</loc>
-    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/RootAndReason/tags/linksys/</loc>
+    <lastmod>2025-07-06T18:51:55-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/RootAndReason/tags/networking/</loc>
+    <lastmod>2025-07-06T18:51:55-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/RootAndReason/tags/opensource/</loc>
-    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-06T18:51:55-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/RootAndReason/tags/pfsense/</loc>
+    <lastmod>2025-07-06T18:51:55-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/RootAndReason/posts/</loc>
+    <lastmod>2025-07-06T18:51:55-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/RootAndReason/</loc>
+    <lastmod>2025-07-06T18:51:55-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/RootAndReason/tags/</loc>
+    <lastmod>2025-07-06T18:51:55-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/RootAndReason/posts/building-a-router/</loc>
+    <lastmod>2025-07-06T18:51:55-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/RootAndReason/tags/diy/</loc>
+    <lastmod>2025-06-29T18:51:55-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/RootAndReason/tags/nas/</loc>
+    <lastmod>2025-06-29T18:51:55-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/RootAndReason/tags/truenas/</loc>
-    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-29T18:51:55-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/RootAndReason/tags/unraid/</loc>
-    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-29T18:51:55-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/RootAndReason/posts/building-a-nas-unit/</loc>
-    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-29T18:51:55-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/RootAndReason/tags/coding/</loc>
+    <lastmod>2025-06-22T20:55:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/RootAndReason/tags/hugo/</loc>
+    <lastmod>2025-06-22T20:55:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/RootAndReason/posts/hugo-modifying-theme-layouts/</loc>
+    <lastmod>2025-06-22T20:55:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/RootAndReason/tags/webdev/</loc>
+    <lastmod>2025-06-22T20:55:00-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/RootAndReason/posts/ali-elixir-of-love/</loc>
-    <lastmod>2025-07-08T18:51:55-07:00</lastmod>
+    <lastmod>2025-06-15T18:51:55-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/RootAndReason/tags/books/</loc>
-    <lastmod>2025-07-08T18:51:55-07:00</lastmod>
+    <lastmod>2025-06-15T18:51:55-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/RootAndReason/tags/history/</loc>
-    <lastmod>2025-07-08T18:51:55-07:00</lastmod>
+    <lastmod>2025-06-15T18:51:55-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/RootAndReason/tags/philosophy/</loc>
-    <lastmod>2025-07-08T18:51:55-07:00</lastmod>
+    <lastmod>2025-06-15T18:51:55-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/RootAndReason/categories/</loc>
   </url>

@@ -11,12 +11,12 @@
     </image>
     <generator>Hugo -- 0.148.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jun 2025 18:51:55 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/RootAndReason/tags/unraid/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why I Built My Own NAS (and Why You Might Want To)</title>
       <link>http://localhost:1313/RootAndReason/posts/building-a-nas-unit/</link>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 29 Jun 2025 18:51:55 -0700</pubDate>
       <guid>http://localhost:1313/RootAndReason/posts/building-a-nas-unit/</guid>
       <description>Exploring why I chose to build my own NAS instead of buying prebuilt options from Synology or QNAP, and how Unraid changed my perspective.</description>
     </item>
