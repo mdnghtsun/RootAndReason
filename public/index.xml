@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Root &amp; Reason</title>
-    <link>http://localhost:59770/RootAndReason/</link>
+    <link>http://localhost:59896/RootAndReason/</link>
     <description>Recent content on Root &amp; Reason</description>
     <image>
       <title>Root &amp; Reason</title>
-      <url>http://localhost:59770/RootAndReason/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:59770/RootAndReason/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:59896/RootAndReason/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:59896/RootAndReason/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.148.0</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 16 Jul 2025 16:00:00 -0700</lastBuildDate>
-    <atom:link href="http://localhost:59770/RootAndReason/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:59896/RootAndReason/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>For vs While Loops in Python: The Iterator Trap Explained</title>
-      <link>http://localhost:59770/RootAndReason/posts/iterator-trap-python-for-vs-while/</link>
+      <link>http://localhost:59896/RootAndReason/posts/iterator-trap-python-for-vs-while/</link>
       <pubDate>Wed, 16 Jul 2025 16:00:00 -0700</pubDate>
-      <guid>http://localhost:59770/RootAndReason/posts/iterator-trap-python-for-vs-while/</guid>
+      <guid>http://localhost:59896/RootAndReason/posts/iterator-trap-python-for-vs-while/</guid>
       <description>Why Python&amp;#39;s for loops don&amp;#39;t behave like C or Java and when to use while instead.</description>
     </item>
     <item>
       <title>The Router That I Remember Fondly (And Why I’m Building My Own)</title>
-      <link>http://localhost:59770/RootAndReason/posts/building-a-router/</link>
+      <link>http://localhost:59896/RootAndReason/posts/building-a-router/</link>
       <pubDate>Sun, 06 Jul 2025 18:51:55 -0700</pubDate>
-      <guid>http://localhost:59770/RootAndReason/posts/building-a-router/</guid>
+      <guid>http://localhost:59896/RootAndReason/posts/building-a-router/</guid>
       <description>From the legendary WRT54G to locked-down firmware nightmares, here&amp;#39;s why I&amp;#39;m ditching consumer routers and building my own pfSense box.</description>
     </item>
     <item>
       <title>Why I Built My Own NAS (and Why You Might Want To)</title>
-      <link>http://localhost:59770/RootAndReason/posts/building-a-nas-unit/</link>
+      <link>http://localhost:59896/RootAndReason/posts/building-a-nas-unit/</link>
       <pubDate>Sun, 29 Jun 2025 18:51:55 -0700</pubDate>
-      <guid>http://localhost:59770/RootAndReason/posts/building-a-nas-unit/</guid>
+      <guid>http://localhost:59896/RootAndReason/posts/building-a-nas-unit/</guid>
       <description>Exploring why I chose to build my own NAS instead of buying prebuilt options from Synology or QNAP, and how Unraid changed my perspective.</description>
     </item>
     <item>
       <title>Overriding Hugo Theme Layouts</title>
-      <link>http://localhost:59770/RootAndReason/posts/hugo-modifying-theme-layouts/</link>
+      <link>http://localhost:59896/RootAndReason/posts/hugo-modifying-theme-layouts/</link>
       <pubDate>Sun, 22 Jun 2025 20:55:00 -0700</pubDate>
-      <guid>http://localhost:59770/RootAndReason/posts/hugo-modifying-theme-layouts/</guid>
+      <guid>http://localhost:59896/RootAndReason/posts/hugo-modifying-theme-layouts/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;re using a Hugo theme like &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;PaperMod&lt;/a&gt; and want to customize part of its layout, the correct way to do this is by overriding the theme’s templates locally — without modifying the theme directly.&lt;/p&gt;
 &lt;p&gt;This approach lets you:&lt;/p&gt;
 &lt;ul&gt;
@@ -50,9 +50,9 @@
     </item>
     <item>
       <title>Ali: The Elixir of Love</title>
-      <link>http://localhost:59770/RootAndReason/posts/ali-elixir-of-love/</link>
+      <link>http://localhost:59896/RootAndReason/posts/ali-elixir-of-love/</link>
       <pubDate>Sun, 15 Jun 2025 18:51:55 -0700</pubDate>
-      <guid>http://localhost:59770/RootAndReason/posts/ali-elixir-of-love/</guid>
+      <guid>http://localhost:59896/RootAndReason/posts/ali-elixir-of-love/</guid>
       <description>&lt;img src=&#34;ali-calligraphy-lion.jpg&#34; alt=&#34;Ali calligraphy lion&#34; style=&#34;max-width: 300px; display: block; margin: 0 auto; border-radius: 8px;&#34;&gt;
 &lt;blockquote&gt;
 &lt;p&gt;“People are of two kinds: either your brothers in faith or your equals in humanity.”&lt;br&gt;

@@ -26,7 +26,7 @@ I expected that setting i = 0 would restart the iteration. Instead, it had no ef
 
 ## 1. Explanation 
 
-The core issue is that `range(len(integer_list))` creates a **range object**, which is an **iterator** that generates a sequence of values `(0, 1, 2, …, len(list) - 1)`. On each iteration, Python assigns the next value from this iterator to `i`.
+The core issue is that `range(len(integer_list))` creates a **range object**, which is an **iterator** that generates a sequence of values `(0, 1, 2, … len(list)`. On each iteration, Python assigns the next value from this iterator to `i`.
 
 This means:
 - Any assignment to `i` inside the loop is immediately overwritten by the next value from the iterator.
@@ -36,7 +36,7 @@ While debugging, I realized the value I was assigning to `i` never persisted. Th
 
 
 ### Iterators vs Counters
-I used to treat iterators and counters as the same thing—but in Python, they’re very different.
+Coming from C background, I used to treat iterators and counters as the same thing. But in Python, they’re very different.
 
 #### **Iterators**
 - Abstractions that represent a position within a sequence.
@@ -51,7 +51,8 @@ I used to treat iterators and counters as the same thing—but in Python, they�
 
 ### While vs For Loops In Python
 
-**C `for` loops** are counter-based, so modifying `i` works because it’s just a variable managed by the loop.
+**C `for` loops** are counter-based, so changing `i` works as expected because it’s simply a variable under your control managed by the loop
+
 ```c
 // C
 for (int i = 0; i < 10; i++) {
@@ -61,7 +62,7 @@ for (int i = 0; i < 10; i++) {
 }
 ```
 
-**Python `for` loops** are iterator-based. Modifying `i` inside the loop has no effect because `i` gets its value from the iterator created by the `for` statement.
+In contrast, **Python `for` loops** are iterator-based. Modifying `i` inside the loop has no effect because `i` gets its value from the iterator object created by the `for` statement.
 ```python
 # Python
 for i in range(10):
@@ -69,7 +70,7 @@ for i in range(10):
         i = 0  # does nothing because i gets its value from the iterator created by range(10) (0, 1, 2, 3, ...)
 ```
 
-It is possible to mimic a C-style `for` loop in Python though it appears unpythonic:
+Note: It is possible to mimic a C-style `for` loop in Python though its rather unpythonic:
 
 ```python
 from itertools import count
@@ -146,6 +147,7 @@ def shift_list_left(integer_list):
 ```
 
 ## TL;DR/Conclusion
+- Counters are simple numbers you manage; iterators are tied to sequences and yield elements one at a time.
 - I assumed Python’s `for` loop was **counter-driven** like in C, where changing `i` inside the loop would affect iteration.
 - In reality, Python’s `for` loop is **iterator-driven**: any reassignment to `i` is ignored because the next value comes from the iterator.
 - **C:** `for` loops → counter-based  
