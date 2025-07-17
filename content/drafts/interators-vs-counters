@@ -1,0 +1,142 @@
+---
+title: "While vs For Loops in Python: Why My Code Didn’t Work"
+date: '2025-06-22T20:55:00-07:00'
+draft: false
+tags: ["python", "loops", "coding", "iterator", "while-vs-for"]
+description: "Why Python's for loops don't behave like C or Java and when to use while instead."
+---
+
+---
+
+## 0. Problem
+blah blah blah
+
+I tried to implement a **counter-driven** loop in Python, similar to how you'd do it in C or Java. My goal was to modify the loop variable inside the loop body to reset the index when a certain condition was met.
+
+Here’s what I initially wrote:
+
+```python
+for i in range(len(integer_list)):
+    if integer_list[i] == 0:
+        integer_list = integer_list[:i] + integer_list[i+1:]
+        i = 0  # I thought this would reset the loop
+```
+I expected that setting i = 0 would restart the loop. But it didn’t. The iterator completely ignored my assignment. Why?
+
+## 1. Explanation 
+The primary issue is that range(len(integer_list)) creates a range object, which is an iterator that produces a sequence of values (0, 1, 2, …, len(list) - 1). On each iteration, Python assigns the next value from this iterator to i.
+This means any assignment to i inside the loop is immediately overridden by the next value from the iterator. So changing i mid-loop has no effect. This was what I was thinking while debugging the problem. 
+
+This is why I kept seeing my _iterator_ not hold onto the value I was assigning it inside the for loop. The range object created in the for loop statement overrided my assignmnet on each iteration of the for loop. This is Pythonic, i.e. how Python fucntions when using iterators (versus counters). 
+
+### Iterators vs Counters
+Until now, I've sort of treated the two the same. But they're not. At least no in Python
+
+#### Iterators
+Iterators: Abstractions that represent a position in a sequence and expose movement via API (like ++it or next()).
+In Python, all for loops are iterator-driven by design. In C, classic for loops are counter-driven unless you explicitly use iterators (via pointers).
+
+#### Counters
+Counters: Simple integers you control (reset, skip, jump). Logic is explicit.
+
+### While vs For loops in Python
+C for loops are counter-based and modifying _i_ works because i is not treated as an interator or iterator object by the C language
+
+Python for loops are iterator-based and modifying i inside of the loop doesn’t matter because i recieves its assignment from the iterator object created by the for loop statement
+```C
+// C
+for (int i = 0; i < 10; i++) {
+    if (i == 5) {
+       i = 0;  // resets at the end of each loop iteration
+    }
+}
+```
+
+```python
+for i in range(10):
+    if i == 5: 
+        i = 0  # does nothing b/c i recieves values from the iterator object created by range(10) (i.e. range(10) -> 0, 1, 2, 3,...) in the for loop statement
+```
+
+
+```python
+from itertools import count
+
+for i in count(0):  # start counting from 0
+    if i >= 10:  # stop condition
+        break
+    print(i)
+```
+
+
+## 2. Solution 
+
+To gain more control, I switched from a for loop to a while loop. A while loop allows explicit management of the counter, which is what I needed for operations like resetting or adjusting i.
+
+Though there is a way to implement a counter with a for loop in python, it appears rather unpythonic because it requires importing the module count from the itertools library with the exit condition of the loop being set explicity (requires an if statement) instead of being implicit.
+
+### An unpythonic way to implement a C-like for loop
+```python
+from itertools import count
+
+def shift_list_left(integer_list):
+    for i in count(0):  # start counting from 0
+        if i >= len(integer_list):
+            break  # stop when we've checked everything
+        if integer_list[i] == 0:
+            print(f"Removing zero at index {i}")
+            integer_list.pop(i)  # modify list in place
+            i -= 1  # ensure next check starts from current position
+```
+
+### Full Code (and the Pythonic way)
+```python
+def shift_list_left(integer_list):
+    index = 0
+    DEBUG = True
+
+    # base case
+    if 0 not in integer_list:
+        print("not shifting: " + str(integer_list))
+        print("no zeroes found to shift over") if DEBUG else None
+        return integer_list
+    else: 
+        print("shifting:" + str(integer_list)) if DEBUG else None
+
+
+    # 0s present -> work to do
+    while index < len(integer_list):
+        # 0 found
+        if integer_list[index] == 0:
+            print("before:" + str(integer_list)) if DEBUG else None
+            integer_list.pop(index)
+            index-=1
+            print("after:" + str(integer_list)) if DEBUG else None
+        # double integer found
+        elif index!= 0 and integer_list[index-1] == integer_list[index]:
+            print("before:" + str(integer_list)) if DEBUG else None
+            integer_list[index-1] = integer_list[index-1] + integer_list[index]
+            integer_list.pop(index)
+            index-=1
+            print("after:" + str(integer_list)) if DEBUG else None
+
+        index+=1
+    
+    # pad 0s to fill list of length 4 to be returned
+    integer_list += [0] * (4 - len(integer_list))
+    print("final:" + str(integer_list)) if DEBUG else None
+    print("done\n") if DEBUG else None
+
+    return integer_list
+```
+
+## TL;DR
+- I assumed Python’s `for` loop was **counter-driven** like in C, where changing `i` inside the loop affects iteration.
+- In reality, Python’s `for` loop is **iterator-driven**: it ignores any reassignment to `i` because values come from the iterator.
+- **C:** `for` loops → counter-based  
+- **Python:** `for` loops → iterator-based  
+- **Rule of thumb:**  
+  - Use `for` when iterating through a sequence.  
+  - Use `while` with a manual counter when you need custom control (resetting, skipping, restarting).  
+
+
