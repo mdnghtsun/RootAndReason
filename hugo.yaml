@@ -4,6 +4,9 @@ title: Root & Reason
 pagination.pagerSize: 5
 theme: PaperMod
 
+mainSections:
+  - posts
+
 taxonomies:
   tag: tags
   category: categories
