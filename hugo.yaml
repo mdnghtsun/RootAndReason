@@ -4,9 +4,13 @@ title: Root & Reason
 pagination.pagerSize: 5
 theme: PaperMod
 
+taxonomies:
+  tag: tags
+  category: categories
+  topic: topics
+
 staticDir:
   - static
-
 
 enableRobotsTXT: true
 buildDrafts: false

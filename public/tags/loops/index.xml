@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Loops on Root &amp; Reason</title>
-    <link>http://localhost:59896/RootAndReason/tags/loops/</link>
+    <link>http://localhost:60465/RootAndReason/tags/loops/</link>
     <description>Recent content in Loops on Root &amp; Reason</description>
     <image>
       <title>Root &amp; Reason</title>
-      <url>http://localhost:59896/RootAndReason/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:59896/RootAndReason/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:60465/RootAndReason/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:60465/RootAndReason/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.148.0</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 16 Jul 2025 16:00:00 -0700</lastBuildDate>
-    <atom:link href="http://localhost:59896/RootAndReason/tags/loops/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:60465/RootAndReason/tags/loops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>For vs While Loops in Python: The Iterator Trap Explained</title>
-      <link>http://localhost:59896/RootAndReason/posts/iterator-trap-python-for-vs-while/</link>
+      <link>http://localhost:60465/RootAndReason/posts/iterator-trap-python-for-vs-while/</link>
       <pubDate>Wed, 16 Jul 2025 16:00:00 -0700</pubDate>
-      <guid>http://localhost:59896/RootAndReason/posts/iterator-trap-python-for-vs-while/</guid>
+      <guid>http://localhost:60465/RootAndReason/posts/iterator-trap-python-for-vs-while/</guid>
       <description>Why Python&amp;#39;s for loops don&amp;#39;t behave like C or Java and when to use while instead.</description>
     </item>
   </channel>

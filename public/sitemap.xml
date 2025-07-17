@@ -5,10 +5,13 @@
     <loc>http://localhost:1313/RootAndReason/tags/coding/</loc>
     <lastmod>2025-07-16T16:00:00-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/RootAndReason/topics/coding/</loc>
+    <lastmod>2025-07-16T16:00:00-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/RootAndReason/posts/iterator-trap-python-for-vs-while/</loc>
     <lastmod>2025-07-16T16:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/RootAndReason/tags/iterator/</loc>
+    <loc>http://localhost:1313/RootAndReason/tags/iterators-vs-counters/</loc>
     <lastmod>2025-07-16T16:00:00-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/RootAndReason/tags/loops/</loc>
@@ -26,10 +29,16 @@
     <loc>http://localhost:1313/RootAndReason/tags/</loc>
     <lastmod>2025-07-16T16:00:00-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/RootAndReason/topics/</loc>
+    <lastmod>2025-07-16T16:00:00-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/RootAndReason/tags/while-vs-for/</loc>
     <lastmod>2025-07-16T16:00:00-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/RootAndReason/tags/homelab/</loc>
+    <lastmod>2025-07-06T18:51:55-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/RootAndReason/topics/homelab/</loc>
     <lastmod>2025-07-06T18:51:55-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/RootAndReason/tags/linksys/</loc>
@@ -83,6 +92,15 @@
     <loc>http://localhost:1313/RootAndReason/tags/philosophy/</loc>
     <lastmod>2025-06-15T18:51:55-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/RootAndReason/topics/philosophy/</loc>
+    <lastmod>2025-06-15T18:51:55-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/RootAndReason/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/RootAndReason/topics/diy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/RootAndReason/tags/iterator/</loc>
+  </url><url>
+    <loc>http://localhost:1313/RootAndReason/topics/networking/</loc>
   </url>
 </urlset>

@@ -2,6 +2,7 @@
 title: "Overriding Hugo Theme Layouts"
 date: '2025-06-22T20:55:00-07:00'
 draft: false
+topics: ["Coding"]
 tags: ["hugo", "coding", "webdev"]
 ---
 

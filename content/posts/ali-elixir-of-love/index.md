@@ -2,6 +2,7 @@
 date: '2025-06-15T18:51:55-07:00'
 draft: false
 title: 'Ali: The Elixir of Love'
+topics: ["Philosophy"]
 tags: ["books", "history", "philosophy"]
 affiliate: true
 ---

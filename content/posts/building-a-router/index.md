@@ -2,6 +2,7 @@
 title: "The Router That I Remember Fondly (And Why I’m Building My Own)"
 date: '2025-07-06T18:51:55-07:00'
 draft: false
+topics: ["Homelab"]
 tags: ["networking", "homelab", "opensource", "pfsense", "linksys"]
 description: "From the legendary WRT54G to locked-down firmware nightmares, here's why I'm ditching consumer routers and building my own pfSense box."
 ---
