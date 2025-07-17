@@ -2,7 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mdnghtsun.github.io/RootAndReason/tags/coding/</loc>
+    <lastmod>2025-07-16T16:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://mdnghtsun.github.io/RootAndReason/topics/coding/</loc>
+    <lastmod>2025-07-16T16:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://mdnghtsun.github.io/RootAndReason/posts/iterator-trap-python-for-vs-while/</loc>
+    <lastmod>2025-07-16T16:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://mdnghtsun.github.io/RootAndReason/tags/iterators-vs-counters/</loc>
+    <lastmod>2025-07-16T16:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://mdnghtsun.github.io/RootAndReason/tags/loops/</loc>
+    <lastmod>2025-07-16T16:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://mdnghtsun.github.io/RootAndReason/posts/</loc>
+    <lastmod>2025-07-16T16:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://mdnghtsun.github.io/RootAndReason/tags/python/</loc>
+    <lastmod>2025-07-16T16:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://mdnghtsun.github.io/RootAndReason/</loc>
+    <lastmod>2025-07-16T16:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://mdnghtsun.github.io/RootAndReason/tags/</loc>
+    <lastmod>2025-07-16T16:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://mdnghtsun.github.io/RootAndReason/topics/</loc>
+    <lastmod>2025-07-16T16:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://mdnghtsun.github.io/RootAndReason/tags/while-vs-for/</loc>
+    <lastmod>2025-07-16T16:00:00-07:00</lastmod>
+  </url><url>
     <loc>https://mdnghtsun.github.io/RootAndReason/tags/homelab/</loc>
+    <lastmod>2025-07-06T18:51:55-07:00</lastmod>
+  </url><url>
+    <loc>https://mdnghtsun.github.io/RootAndReason/topics/homelab/</loc>
     <lastmod>2025-07-06T18:51:55-07:00</lastmod>
   </url><url>
     <loc>https://mdnghtsun.github.io/RootAndReason/tags/linksys/</loc>
@@ -15,15 +51,6 @@
     <lastmod>2025-07-06T18:51:55-07:00</lastmod>
   </url><url>
     <loc>https://mdnghtsun.github.io/RootAndReason/tags/pfsense/</loc>
-    <lastmod>2025-07-06T18:51:55-07:00</lastmod>
-  </url><url>
-    <loc>https://mdnghtsun.github.io/RootAndReason/posts/</loc>
-    <lastmod>2025-07-06T18:51:55-07:00</lastmod>
-  </url><url>
-    <loc>https://mdnghtsun.github.io/RootAndReason/</loc>
-    <lastmod>2025-07-06T18:51:55-07:00</lastmod>
-  </url><url>
-    <loc>https://mdnghtsun.github.io/RootAndReason/tags/</loc>
     <lastmod>2025-07-06T18:51:55-07:00</lastmod>
   </url><url>
     <loc>https://mdnghtsun.github.io/RootAndReason/posts/building-a-router/</loc>
@@ -44,9 +71,6 @@
     <loc>https://mdnghtsun.github.io/RootAndReason/posts/building-a-nas-unit/</loc>
     <lastmod>2025-06-29T18:51:55-07:00</lastmod>
   </url><url>
-    <loc>https://mdnghtsun.github.io/RootAndReason/tags/coding/</loc>
-    <lastmod>2025-06-22T20:55:00-07:00</lastmod>
-  </url><url>
     <loc>https://mdnghtsun.github.io/RootAndReason/tags/hugo/</loc>
     <lastmod>2025-06-22T20:55:00-07:00</lastmod>
   </url><url>
@@ -66,6 +90,9 @@
     <lastmod>2025-06-15T18:51:55-07:00</lastmod>
   </url><url>
     <loc>https://mdnghtsun.github.io/RootAndReason/tags/philosophy/</loc>
+    <lastmod>2025-06-15T18:51:55-07:00</lastmod>
+  </url><url>
+    <loc>https://mdnghtsun.github.io/RootAndReason/topics/philosophy/</loc>
     <lastmod>2025-06-15T18:51:55-07:00</lastmod>
   </url><url>
     <loc>https://mdnghtsun.github.io/RootAndReason/categories/</loc>

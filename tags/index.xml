@@ -11,8 +11,43 @@
     </image>
     <generator>Hugo -- 0.148.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Jul 2025 18:51:55 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 16:00:00 -0700</lastBuildDate>
     <atom:link href="https://mdnghtsun.github.io/RootAndReason/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding</title>
+      <link>https://mdnghtsun.github.io/RootAndReason/tags/coding/</link>
+      <pubDate>Wed, 16 Jul 2025 16:00:00 -0700</pubDate>
+      <guid>https://mdnghtsun.github.io/RootAndReason/tags/coding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Iterators-vs-Counters</title>
+      <link>https://mdnghtsun.github.io/RootAndReason/tags/iterators-vs-counters/</link>
+      <pubDate>Wed, 16 Jul 2025 16:00:00 -0700</pubDate>
+      <guid>https://mdnghtsun.github.io/RootAndReason/tags/iterators-vs-counters/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Loops</title>
+      <link>https://mdnghtsun.github.io/RootAndReason/tags/loops/</link>
+      <pubDate>Wed, 16 Jul 2025 16:00:00 -0700</pubDate>
+      <guid>https://mdnghtsun.github.io/RootAndReason/tags/loops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://mdnghtsun.github.io/RootAndReason/tags/python/</link>
+      <pubDate>Wed, 16 Jul 2025 16:00:00 -0700</pubDate>
+      <guid>https://mdnghtsun.github.io/RootAndReason/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>While-vs-For</title>
+      <link>https://mdnghtsun.github.io/RootAndReason/tags/while-vs-for/</link>
+      <pubDate>Wed, 16 Jul 2025 16:00:00 -0700</pubDate>
+      <guid>https://mdnghtsun.github.io/RootAndReason/tags/while-vs-for/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Homelab</title>
       <link>https://mdnghtsun.github.io/RootAndReason/tags/homelab/</link>
@@ -74,13 +109,6 @@
       <link>https://mdnghtsun.github.io/RootAndReason/tags/unraid/</link>
       <pubDate>Sun, 29 Jun 2025 18:51:55 -0700</pubDate>
       <guid>https://mdnghtsun.github.io/RootAndReason/tags/unraid/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Coding</title>
-      <link>https://mdnghtsun.github.io/RootAndReason/tags/coding/</link>
-      <pubDate>Sun, 22 Jun 2025 20:55:00 -0700</pubDate>
-      <guid>https://mdnghtsun.github.io/RootAndReason/tags/coding/</guid>
       <description></description>
     </item>
     <item>
