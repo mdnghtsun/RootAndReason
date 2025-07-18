@@ -16,7 +16,7 @@ This approach lets you:
 
 For my purposes, I wanted to extended the behavior of the PaperMod theme I'm using to include a mention about amazon afiliate links in the page footers -- without overriding the default footer containing information on how the site was built (hugo + paper mod, etc). 
 
-There was a bit of work to do and a learning curve. I am writing this post here as my own set of personal note and to help explain how all this works other others.
+There was a learning curve and a bit of work to do. I am writing this post here as a note to myself and to help explain this to others. 
 
 Goal: Show an Amazon affiliate disclaimer only for posts that need it — while preserving the regular site-wide footer.
 
