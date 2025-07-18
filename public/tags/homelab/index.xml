@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Homelab on Root &amp; Reason</title>
-    <link>http://localhost:60676/RootAndReason/tags/homelab/</link>
+    <link>https://mdnghtsun.github.io/RootAndReason/tags/homelab/</link>
     <description>Recent content in Homelab on Root &amp; Reason</description>
     <image>
       <title>Root &amp; Reason</title>
-      <url>http://localhost:60676/RootAndReason/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:60676/RootAndReason/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://mdnghtsun.github.io/RootAndReason/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://mdnghtsun.github.io/RootAndReason/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.148.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Jul 2025 18:51:55 -0700</lastBuildDate>
-    <atom:link href="http://localhost:60676/RootAndReason/tags/homelab/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mdnghtsun.github.io/RootAndReason/tags/homelab/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Router That I Remember Fondly (And Why I’m Building My Own)</title>
-      <link>http://localhost:60676/RootAndReason/posts/building-a-router/</link>
+      <link>https://mdnghtsun.github.io/RootAndReason/posts/building-a-router/</link>
       <pubDate>Sun, 06 Jul 2025 18:51:55 -0700</pubDate>
-      <guid>http://localhost:60676/RootAndReason/posts/building-a-router/</guid>
+      <guid>https://mdnghtsun.github.io/RootAndReason/posts/building-a-router/</guid>
       <description>From the legendary WRT54G to locked-down firmware nightmares, here&amp;#39;s why I&amp;#39;m ditching consumer routers and building my own pfSense box.</description>
     </item>
     <item>
       <title>Why I Built My Own NAS (and Why You Might Want To)</title>
-      <link>http://localhost:60676/RootAndReason/posts/building-a-nas-unit/</link>
+      <link>https://mdnghtsun.github.io/RootAndReason/posts/building-a-nas-unit/</link>
       <pubDate>Sun, 29 Jun 2025 18:51:55 -0700</pubDate>
-      <guid>http://localhost:60676/RootAndReason/posts/building-a-nas-unit/</guid>
+      <guid>https://mdnghtsun.github.io/RootAndReason/posts/building-a-nas-unit/</guid>
       <description>Exploring why I chose to build my own NAS instead of buying prebuilt options from Synology or QNAP, and how Unraid changed my perspective.</description>
     </item>
   </channel>

@@ -237,7 +237,7 @@ Let’s take a snapshot of what’s available right now:
 - **Tri-band & “gaming” routers**: Just marketing bloat, in most cases. Unless you're in a multi-floor household with dozens of high-throughput devices, the extra bands do very little. And the extra antennas look sily. I'd rather have more RAM and CPU. Or atleast a router that looks ornamental like a Excalibur (Sword In The Stone), Taj Mahal, Stone Henge. I'd even take an Eiffel Tower looking router if its all about big pointy antennas. 
 
 
-Indeed, ChatGPT concurs:
+Indeed, I found the following:
 > In the early 2000s, Wi-Fi gear from the same brand often worked better together because:  
 >  
 > - **Standards were immature** – many devices used draft or inconsistent versions of 802.11b/g.  
